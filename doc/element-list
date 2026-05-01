@@ -1,0 +1,14 @@
+bcu.cmp5332.bookingsystem.commands
+bcu.cmp5332.bookingsystem.dao
+bcu.cmp5332.bookingsystem.dao.impl
+bcu.cmp5332.bookingsystem.dao.mysql
+bcu.cmp5332.bookingsystem.data
+bcu.cmp5332.bookingsystem.gui
+bcu.cmp5332.bookingsystem.gui.admin
+bcu.cmp5332.bookingsystem.gui.common
+bcu.cmp5332.bookingsystem.gui.components
+bcu.cmp5332.bookingsystem.gui.customer
+bcu.cmp5332.bookingsystem.main
+bcu.cmp5332.bookingsystem.model
+bcu.cmp5332.bookingsystem.test
+bcu.cmp5332.bookingsystem.utils
