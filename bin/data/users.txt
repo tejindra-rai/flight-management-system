@@ -1,3 +1,0 @@
-1::admin::admin123::ADMIN::-1::
-2::applepie::123456::CUSTOMER::6::
-3::try::123456::CUSTOMER::7::

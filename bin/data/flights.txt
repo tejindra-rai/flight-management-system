@@ -1,4 +1,0 @@
-1::RA101::KTM::PKR::2026-03-15::120::250.0::false::Economy::false::
-2::RA102::KTM::BWA::2026-04-10::100::220.0::false::Economy::false::
-3::RA103::PKR::KTM::2026-05-05::90::230.0::false::Business::true::
-4::RA104::KTM::BIR::2026-06-20::80::180.0::false::Economy::false::
